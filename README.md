@@ -43,3 +43,9 @@ Além disso, há uma mensagem de "Feliz Natal!" e um botão fictício para "Comp
 - Para alterar a data da contagem regressiva, modifique a seguinte linha no arquivo `script.js`:
   ```javascript
   var dest = new Date("dec 25, 2024 12:00:00").getTime();
+
+Substitua "dec 25, 2024 12:00:00" pela data desejada.
+
+Licença
+
+Este projeto é de livre uso para fins educacionais ou pessoais.
