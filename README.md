@@ -46,9 +46,9 @@ Além disso, há uma mensagem de "Feliz Natal!" e um botão fictício para "Comp
 
 Substitua "dec 25, 2024 12:00:00" pela data desejada.
 
-Licença
+## 📄 Licença
 
-Este projeto é de livre uso para fins educacionais ou pessoais.
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Ninja1375/Contagem-regressiva-para-natal/blob/main/LICENSE)
 
 ## Apoie-me:
 
@@ -57,4 +57,3 @@ Este projeto é de livre uso para fins educacionais ou pessoais.
 <a href="https://www.paypal.com/donate/?hosted_button_id=DN574F28FYUNG" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" width="130" height="30"></a>
 
 <a href="https://github.com/sponsors/Ninja1375" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=github&logoColor=white" width="130" height="30"></a>
-
